@@ -1,0 +1,1 @@
+{"schemas": {"pets": [["id", "INT"], ["name", "VARCHAR(32)"], ["sound", "VARCHAR(32)"]]}, "auto_id_tables": []}

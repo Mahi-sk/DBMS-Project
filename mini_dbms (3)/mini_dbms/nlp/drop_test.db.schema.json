@@ -1,0 +1,1 @@
+{"schemas": {"users": [["id", "INT"], ["name", "VARCHAR(32)"], ["email", "VARCHAR(64)"]], "pets": [["pet_id", "INT"], ["type", "VARCHAR(255)"], ["pet_name", "VARCHAR(255)"]]}, "auto_id_tables": []}
